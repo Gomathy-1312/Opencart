@@ -1,0 +1,35 @@
+2024-08-06 12:35:51 INFO  TC_001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-08-06 12:36:02 ERROR TC_001_AccountRegistrationTest:46 - Text message:element not interactable
+  (Session info: chrome=127.0.6533.89)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [761a43501cc8c578b6132c77a63fb3cc, clickElement {id=f.15B1987903325FF9BC80F76D3F78C695.d.A8464E0A3DB265E37925EB6468B02B14.e.6}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 127.0.6533.89, chrome: {chromedriverVersion: 127.0.6533.88 (a2d0cb026721..., userDataDir: C:\Users\Anush\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50154}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50154/devtoo..., se:cdpVersion: 127.0.6533.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (761a43501cc8c578b6132c77a63fb3cc)] -> xpath: //span[normalize-space()='My Account']]
+Session ID: 761a43501cc8c578b6132c77a63fb3cc
+2024-08-06 12:36:02 INFO  TC_001_AccountRegistrationTest:52 - **********Tested completed********************
+2024-08-06 12:39:27 INFO  TC_001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-08-06 12:39:38 ERROR TC_001_AccountRegistrationTest:46 - Text message:element not interactable
+  (Session info: chrome=127.0.6533.89)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9fec0d151028af3c3dc74f874d2b829e, clickElement {id=f.5ED720088D59A9D6934A2F59FEE0ACB1.d.5C19B9E07CF0F6B0653CFC5E7038DF67.e.5}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 127.0.6533.89, chrome: {chromedriverVersion: 127.0.6533.88 (a2d0cb026721..., userDataDir: C:\Users\Anush\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55742}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55742/devtoo..., se:cdpVersion: 127.0.6533.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (9fec0d151028af3c3dc74f874d2b829e)] -> xpath: //span[normalize-space()='My Account']]
+Session ID: 9fec0d151028af3c3dc74f874d2b829e
+2024-08-06 12:39:38 INFO  TC_001_AccountRegistrationTest:52 - **********Tested completed********************
+2024-08-06 12:40:47 INFO  TC_002_LoginTest:18 - ************Started logging**********************
+2024-08-06 14:43:17 INFO  TC_001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-08-06 14:43:18 INFO  TC_001_AccountRegistrationTest:22 - ***** Register account  ****
+2024-08-06 14:43:18 INFO  TC_001_AccountRegistrationTest:31 - hgsdjhsgdf
+2024-08-06 14:43:20 INFO  TC_001_AccountRegistrationTest:41 - Test passed
+2024-08-06 14:43:20 INFO  TC_001_AccountRegistrationTest:52 - **********Tested completed********************
+2024-08-06 14:43:24 INFO  TC_002_LoginTest:18 - ************Started logging**********************
+2024-08-06 14:50:11 INFO  TC_001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-08-06 14:50:12 INFO  TC_001_AccountRegistrationTest:22 - ***** Register account  ****
+2024-08-06 14:50:13 INFO  TC_001_AccountRegistrationTest:31 - hgsdjhsgdf
+2024-08-06 14:50:14 INFO  TC_001_AccountRegistrationTest:41 - Test passed
+2024-08-06 14:50:14 INFO  TC_001_AccountRegistrationTest:52 - **********Tested completed********************
+2024-08-06 14:50:18 INFO  TC_002_LoginTest:18 - ************Started logging**********************
